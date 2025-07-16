@@ -107,3 +107,5 @@ REFRESH_MS = 1
 
 The project uses the MIT license
 
+## tg: @deltasquare
+
